@@ -35,3 +35,11 @@ This project uses **API calls** and displays the data on a **16x2 LCD** using th
    ```bash
    git clone https://github.com/<your-username>/real-time-pager-device.git
    cd real-time-pager-device
+
+2. you must have to try this after that you will learn about the github community and the work process which is done here
+
+
+## Technology used 
+
+- **Sorry friends im not gonna enclosed this type of sensative information to you!
+
