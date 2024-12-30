@@ -41,5 +41,5 @@ This project uses **API calls** and displays the data on a **16x2 LCD** using th
 
 ## Technology used 
 
-- **Sorry friends im not gonna enclosed this type of sensative information to you!
+- Sorry friends im not gonna enclosed this type of sensative information to you!
 
