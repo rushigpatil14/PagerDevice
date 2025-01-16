@@ -7,7 +7,6 @@ A pager-like device designed to display real-time data such as:
 - Aviation flight status
 
 This project uses **API calls** and displays the data on a **16x2 LCD** using the VSD Squadron Mini Microcontroller and ESP01.
-
 ---
 
 ## Features
